@@ -6,10 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["freecodecamp", "node", "express"],
   "author": "Stanley Daniel",
   "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
+   "dependencies": {
+    "express": "^4.18.2"
   }
 }
