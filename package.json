@@ -4,12 +4,13 @@
   "description": "My first Express app for FreeCodeCamp",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["freecodecamp", "node", "express"],
-  "author": "Your Name",
+  "keywords": [],
+  "author": "Stanley Daniel",
   "license": "ISC",
-   "dependencies": {
-    "express": "^4.18.2"
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
